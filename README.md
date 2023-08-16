@@ -9,7 +9,7 @@ Realice un `fork` del repo, cree una rama y modifique el archivo `README.md` y `
 Este es el template para el `Readme.md`:
 
 ```
-| <img src="URL_IMAGEN_1" width="100" height="100"> | Nombre 1 | [GitHub](URL_GITHUB_1) | [LinkedIn](URL_LINKEDIN_1) | email1@example.com |
+| <img src="URL_IMAGEN_1" width="100" height="100"> | Nombre 1 | País | [GitHub](URL_GITHUB_1) | [LinkedIn](URL_LINKEDIN_1) | email1@example.com |
 ```
 
 Este es el formato de los datos para JSON del archivo es `directorio.json`:
@@ -18,6 +18,7 @@ Este es el formato de los datos para JSON del archivo es `directorio.json`:
 {
     "imagen": "URL_IMAGEN_1",
     "nombre": "Nombre 1",
+    "pais" : "Pais",
     "github": "URL_GITHUB_1",
     "linkedin": "URL_LINKEDIN_1",
     "email": "email1@example.com",
@@ -26,7 +27,7 @@ Este es el formato de los datos para JSON del archivo es `directorio.json`:
 
 ## Miembros de la Comunidad
 
-| Imagen | Nombre | GitHub | LinkedIn | Email | 
-|--------|--------|--------|----------|-------|
-| <img src="https://pbs.twimg.com/profile_images/1678652101331746819/F_2AHR1__400x400.jpg" width="100" height="100"> | Julián Darío Luna Patiño | [GitHub](https://github.com/judlup) | [LinkedIn](https://www.linkedin.com/in/judlup/) | judlup@trycatch.tv | 
-| <img src="URL_IMAGEN_1" width="100" height="100"> | Nombre 2 | [GitHub](URL_GITHUB_2) | [LinkedIn](URL_LINKEDIN_2) | email2@example.com |
+| Imagen | Nombre | País | GitHub | LinkedIn | Email | 
+|--------|--------|------|--------|----------|-------|
+| <img src="https://pbs.twimg.com/profile_images/1678652101331746819/F_2AHR1__400x400.jpg" width="100" height="100"> | Julián Darío Luna Patiño | Colombia | [GitHub](https://github.com/judlup) | [LinkedIn](https://www.linkedin.com/in/judlup/) | judlup@trycatch.tv | 
+| <img src="URL_IMAGEN_1" width="100" height="100"> | Nombre 2 | País | [GitHub](URL_GITHUB_2) | [LinkedIn](URL_LINKEDIN_2) | email2@example.com |
